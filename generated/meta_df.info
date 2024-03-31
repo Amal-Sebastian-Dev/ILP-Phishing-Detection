@@ -1,0 +1,101 @@
+Feature Name : having_IP_Address	 (Not Encoded) - 2
+	1
+	-1
+Feature Name : URL_Length	 (Not Encoded) - 3
+	0
+	1
+	-1
+Feature Name : Shortining_Service	 (Not Encoded) - 2
+	1
+	-1
+Feature Name : having_At_Symbol	 (Not Encoded) - 2
+	1
+	-1
+Feature Name : double_slash_redirecting	 (Not Encoded) - 2
+	1
+	-1
+Feature Name : Prefix_Suffix	 (Not Encoded) - 2
+	1
+	-1
+Feature Name : having_Sub_Domain	 (Not Encoded) - 3
+	0
+	1
+	-1
+Feature Name : SSLfinal_State	 (Not Encoded) - 3
+	0
+	1
+	-1
+Feature Name : Domain_registeration_length	 (Not Encoded) - 2
+	1
+	-1
+Feature Name : Favicon	 (Not Encoded) - 2
+	1
+	-1
+Feature Name : port	 (Not Encoded) - 2
+	1
+	-1
+Feature Name : HTTPS_token	 (Not Encoded) - 2
+	1
+	-1
+Feature Name : Request_URL	 (Not Encoded) - 2
+	1
+	-1
+Feature Name : URL_of_Anchor	 (Not Encoded) - 3
+	0
+	1
+	-1
+Feature Name : Links_in_tags	 (Not Encoded) - 3
+	0
+	1
+	-1
+Feature Name : SFH	 (Not Encoded) - 3
+	0
+	1
+	-1
+Feature Name : Submitting_to_email	 (Not Encoded) - 2
+	1
+	-1
+Feature Name : Abnormal_URL	 (Not Encoded) - 2
+	1
+	-1
+Feature Name : Redirect	 (Not Encoded) - 2
+	0
+	1
+Feature Name : on_mouseover	 (Not Encoded) - 2
+	1
+	-1
+Feature Name : RightClick	 (Not Encoded) - 2
+	1
+	-1
+Feature Name : popUpWidnow	 (Not Encoded) - 2
+	1
+	-1
+Feature Name : Iframe	 (Not Encoded) - 2
+	1
+	-1
+Feature Name : age_of_domain	 (Not Encoded) - 2
+	1
+	-1
+Feature Name : DNSRecord	 (Not Encoded) - 2
+	1
+	-1
+Feature Name : web_traffic	 (Not Encoded) - 3
+	0
+	1
+	-1
+Feature Name : Page_Rank	 (Not Encoded) - 2
+	1
+	-1
+Feature Name : Google_Index	 (Not Encoded) - 2
+	1
+	-1
+Feature Name : Links_pointing_to_page	 (Not Encoded) - 3
+	0
+	1
+	-1
+Feature Name : Statistical_report	 (Not Encoded) - 2
+	1
+	-1
+Result
+	0	generated/Pos.f
+	1	generated/Neg.n
